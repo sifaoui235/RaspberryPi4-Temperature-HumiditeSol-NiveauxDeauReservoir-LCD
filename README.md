@@ -9,7 +9,7 @@ Assemblage des mini projets de mesure de temperature de l'humidité de sol et ni
 
 # Contenu
 - RaspberryPi4-Temperature-Humidite-Sol-NiveauEauReservoir.pdf – Documentation complète du projet.
-- code-alert-email.py – Script Python pour l’alerte email.
+- code-alert-email.txt – Pour l’alerte email.
 
 # Technologies
 - Raspberry Pi 4
