@@ -14,7 +14,7 @@ import smtplib
 # Configuration Email
 EMAIL = "sifaouisamar03@gmail.com"
 DESTINATAIRE = "sifaouisamar03@gmail.com"
-MDP = "oemx bhaw lxqs rwxx"
+MDP = "**** **** **** ****"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 
@@ -168,4 +168,5 @@ except KeyboardInterrupt:
     GPIO.output(LED_ROUGE, GPIO.LOW)
     display.lcd_clear()
     spi.close()
+
     GPIO.cleanup()
